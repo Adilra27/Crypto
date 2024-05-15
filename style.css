@@ -8,7 +8,7 @@
 .container{
     width: 100%;
     height: 100vh;
-    background-image: url(images/background.png);
+    background-image: url(background.png);
     background-position: center;
     background-size: cover;
     padding: 0 7%;
@@ -117,4 +117,20 @@ nav .btn2{
 .coin h3{
     color: #fff;
     margin-bottom: 5px;
+}
+
+/* Explore More */
+
+/* .contain{
+    width: 100%;
+    height: 200vh;
+} */
+
+img.coin-logo {
+    margin: 2px 3px;
+    height: 16px;
+}
+.coin-size {
+    margin: -23px 28px;
+    color: #fff;
 }
